@@ -4,16 +4,23 @@ body{
   font-family: Verdana, georgia, "times new roman", times, serif;
 }
 
+table{
+  text-align: center;
+}
+
 #header{
   text-align: center;
 }
 
 #menu{
   text-align: center;
+  border: solid 1px;
 }
 
 #menu ul li{
   display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 #footer{
