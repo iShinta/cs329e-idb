@@ -1,5 +1,6 @@
 body{
-  background-color: lightgrey;
+  /*background-color: lightgrey;*/
+  background-image: url(/img/background.png) repeat-y;
   margin: 0px;
   padding: 0px;
   font-family: Verdana, georgia, "times new roman", times, serif;
