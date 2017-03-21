@@ -43,3 +43,8 @@ table{
 #footer{
   text-align: center;
 }
+
+.member{
+  margin: 50px;
+  display: inline-block;
+}
