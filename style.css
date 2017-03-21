@@ -4,6 +4,14 @@ body{
   font-family: Verdana, georgia, "times new roman", times, serif;
 }
 
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
 table{
   text-align: center;
 }
