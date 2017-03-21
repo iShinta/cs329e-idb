@@ -1,4 +1,5 @@
 body{
+  background-color: lightgrey;
   margin: 0px;
   padding: 0px;
   font-family: Verdana, georgia, "times new roman", times, serif;
@@ -23,6 +24,8 @@ table{
 #menu{
   text-align: center;
   border: solid 1px;
+  font-weight: bold;
+  color: white;
 }
 
 #menu ul li{
