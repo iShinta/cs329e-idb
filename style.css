@@ -1,9 +1,15 @@
 body{
   /*background-color: lightgrey;*/
-  background-image: url(/img/background.png) repeat-y;
+  background-image: url(/img/background50.png);
+  /*opacity: 0.5;*/
   margin: 0px;
   padding: 0px;
   font-family: Verdana, georgia, "times new roman", times, serif;
+  color: white;
+}
+
+a{
+  color: white;
 }
 
 h1{
@@ -26,7 +32,6 @@ table{
   text-align: center;
   border: solid 1px;
   font-weight: bold;
-  color: white;
 }
 
 #menu ul li{
